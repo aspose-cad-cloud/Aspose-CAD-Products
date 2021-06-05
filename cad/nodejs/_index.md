@@ -10,7 +10,7 @@ url: /nodejs
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-node-min.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-nodejs" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-nodejs" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud Node.js SDK is a very stable and easy-to-use set of REST APIs that enables software developers to create AutoCAD drawing converter applications using Node.js commands without requiring AutoCAD or any software to be installed on their machines. Aspose.CAD Cloud Node.js SDK supports several advanced features like scaling and rotating CAD images, modify the scale of CAD drawing, get images properties, flip CAD sketches, and many more.</p>
@@ -38,7 +38,7 @@ url: /nodejs
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-node-min.png" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-node.png" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -75,13 +75,13 @@ url: /nodejs
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-node-min.png" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-node.png" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
 {{< /blocks/products/pf/carousel-item >}}
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD Cloud supports all major platforms & programming languages." >}}
-<img title="Platform Independence" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/diagram/cloud/supported-platform-min.png" alt="Platform Independence" />
+<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->

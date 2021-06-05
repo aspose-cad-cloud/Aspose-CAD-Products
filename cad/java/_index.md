@@ -10,7 +10,7 @@ url: /java
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Java SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-java-min.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-java" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-java" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud Java SDK makes the development of cloud-based CAD programs very quick and error-free. It helps you retrieve CAD image information for CAD drawings. Aspose.CAD Cloud SDK for Java makes scaling, rotating and flipping of CAD diagrams very easy. You can easily open, save and convert from popular AutoCAD DWG, DWF and DXF to Other File Formats.</p>
@@ -38,7 +38,7 @@ url: /java
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-java-min.png" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-java.png" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -75,13 +75,13 @@ url: /java
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-java-min.png" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-java.png" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
 {{< /blocks/products/pf/carousel-item >}}
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD Cloud supports all major platforms & programming languages." >}}
-<img title="Platform Independence" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/diagram/cloud/supported-platform-min.png" alt="Platform Independence" />
+<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->

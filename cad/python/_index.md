@@ -10,7 +10,7 @@ url: /python
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Python SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-python-min.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-python" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-python.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-python" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud Python SDK  enables software developers to create, modify and manipulate CAD drawing without requiring AutoCAD or any software to be installed on their machines. Developers can also easily convert their CAD drawings such as DWG, DWF and DXF to PDF and images formats such as BMP, PNG, JPG, JPEG, JPEG2000, TIF, TIFF, PSD, GIF and many more. It allows programmers to convert the selected layers and layouts from the CAD drawings.  Aspose.CAD Cloud Python SDK supports advanced features like scaling CAD drawing, rotating CAD images, getting properties of images, flipping CAD sketches and many more.</p>
@@ -37,7 +37,7 @@ url: /python
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-python-min.png" alt="CAD Cloud for Python" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-python.png" alt="CAD Cloud for Python" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -74,13 +74,13 @@ url: /python
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-python-min.png" alt="CAD Cloud for Python" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Python</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-python.png" alt="CAD Cloud for Python" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Python</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
 {{< /blocks/products/pf/carousel-item >}}
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD Cloud supports all major platforms & programming languages." >}}
-<img title="Platform Independence" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/diagram/cloud/supported-platform-min.png" alt="Platform Independence" />
+<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->

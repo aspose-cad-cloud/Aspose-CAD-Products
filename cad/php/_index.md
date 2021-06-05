@@ -10,7 +10,7 @@ url: /php
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud PHP SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-php-min.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-python" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-php.png" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-python" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud SDK for PHP provides the capability to implement a wide range of CAD drawing processing operations such as reading, retrieving & updating, manipulating, and converting to other supported file formats in the cloud without requiring AutoCAD or any software to be installed. It provides supports for the latest versions of AutoCAD DWG, DXF, DWF, DWT, STL, IGS, DGN, OBJ, and CF2 files.</p>
@@ -37,7 +37,7 @@ url: /php
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-php-min.png" alt="CAD Cloud for PHP" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-php.png" alt="CAD Cloud for PHP" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -74,13 +74,13 @@ url: /php
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-php-min.png" alt="CAD Cloud for PHP" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>PHP</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-php.png" alt="CAD Cloud for PHP" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>PHP</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
 {{< /blocks/products/pf/carousel-item >}}
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD Cloud supports all major platforms & programming languages." >}}
-<img title="Platform Independence" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/diagram/cloud/supported-platform-min.png" alt="Platform Independence" />
+<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->

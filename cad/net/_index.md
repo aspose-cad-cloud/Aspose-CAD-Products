@@ -10,7 +10,7 @@ url: /net
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud .NET SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-net-min.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-dotnet" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-net.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-dotnet" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud .NET SDK is an easy-to-use set of REST APIs for developing AutoCAD drawing converter and processor applications in C#. Your cloud-based applications will work as an AutoCAD alternative, when it comes to fetching CAD information of drawings or converting AutoCAD images from DXF (R12/2007/2010) to PDF (as a vector or as a raster) or images (BMP, PNG, JPG, JPEG, JPEG2000, TIF, TIFF, PSD, GIF, WMF).</p><p> Using Aspose.CAD Cloud .NET SDK, you can modify the scale of CAD drawing, rotate CAD images or flip CAD sketches. Developers can easily open, modify and convert popular AutoCAD DWG, DWF and DXF File Formats inside their own applications.</p>
@@ -37,7 +37,7 @@ url: /net
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-net-min.png" alt="CAD Cloud for .NET" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-net.png" alt="CAD Cloud for .NET" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -74,13 +74,13 @@ url: /net
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-net-min.png" alt="CAD Cloud for .NET" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>.NET</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-net.png" alt="CAD Cloud for .NET" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>.NET</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
 {{< /blocks/products/pf/carousel-item >}}
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD Cloud supports all major platforms & programming languages." >}}
-<img title="Platform Independence" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/diagram/cloud/supported-platform-min.png" alt="Platform Independence" />
+<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->

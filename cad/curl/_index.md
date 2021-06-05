@@ -10,7 +10,7 @@ url: /curl
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-curl-min.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-curl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud for cURL helps create cURL-based CAD processing applications for cloud. It allows you to fetch image information of existing CAD drawings. Resize CAD image, flip CAD diagrams or rotate CAD sketches with ease.</p>
@@ -38,7 +38,7 @@ url: /curl
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl-min.png" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl.png" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -75,13 +75,13 @@ url: /curl
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl-min.png" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl.png" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
 {{< /blocks/products/pf/carousel-item >}}
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD Cloud supports all major platforms & programming languages." >}}
-<img title="Platform Independence" src="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/imaging/diagram/cloud/supported-platform-min.png" alt="Platform Independence" />
+<img title="Platform Independence" src="/supported-platform.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
