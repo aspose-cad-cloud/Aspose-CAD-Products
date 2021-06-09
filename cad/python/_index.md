@@ -80,7 +80,7 @@ url: /python
 
 {{< /blocks/products/pf/carousel-item >}}
 {{< blocks/products/pf/carousel-item h3="Platform Independence" description="Aspose.CAD Cloud supports all major platforms & programming languages." >}}
-<img title="Platform Independence" src="/supported-platform-min.png" alt="Platform Independence" />
+<img title="Platform Independence" src="/supported-platform.png" alt="Platform Independence" />
 {{< /blocks/products/pf/carousel-item >}}
 {{< /blocks/products/pf/carousel >}}
 <!--Diagrams End-->
@@ -231,13 +231,13 @@ url: /python
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/curl" imgSrc="/sdk/aspose_cad-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/net" imgSrc="/sdk/aspose_cad-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/java" imgSrc="/sdk/aspose_cad-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/php" imgSrc="/sdk/aspose_cad-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/python" imgSrc="/sdk/aspose_cad-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/ruby" imgSrc="/sdk/aspose_cad-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/nodejs" imgSrc="/sdk/aspose_cad-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/curl/" imgSrc="/sdk/aspose_cad-for-curl.png" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="/sdk/aspose_cad-for-net.png" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="/sdk/aspose_cad-for-java.png" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.png" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.png" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.png" platform="Ruby" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-node.png" platform="Node.js" >}}
 	
 
 {{< /blocks/products/pf/offers-section >}}
