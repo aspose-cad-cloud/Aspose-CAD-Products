@@ -44,7 +44,7 @@ Perform advanced CAD manipulation and conversion capabilities in your Node.js Ap
 
 {{< blocks/products/pf/support-learning-resources >}}
 {{< blocks/products/pf/slr-tab tabTitle="Learning Resources" tabId="resources" >}}
-{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/display/cadcloud/Home" >}}
+{{< blocks/products/pf/slr-element name="Documentation" href="https://docs.aspose.cloud/cad/" >}}
 {{< blocks/products/pf/slr-element name="Source Code" href="https://github.com/aspose-cad-cloud" >}}
 {{< blocks/products/pf/slr-element name="API References" href="https://apireference.aspose.cloud/cad/" >}}
 {{< blocks/products/pf/slr-element name="Tutorial Videos" href="https://www.youtube.com/user/asposevideo" >}}

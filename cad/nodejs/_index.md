@@ -232,7 +232,7 @@ url: /nodejs
     {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.png" platform="PHP" >}}
 	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.png" platform="Python" >}}
 	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-node.png" platform="Node.js" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/nodejs/" imgSrc="/sdk/aspose_cad-for-node.png" platform="Node.js" >}}
 	
 
 {{< /blocks/products/pf/offers-section >}}
