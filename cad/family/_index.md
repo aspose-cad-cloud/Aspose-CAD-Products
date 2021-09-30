@@ -6,36 +6,36 @@ url: /family
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="REST APIs to Build AutoCAD Drawing Converter" h2="Develop cloud-based CAD programs to process and rotate, flip, scale or convert AutoCAD drawings via simple cloud SDKs" logoImageSrc="/headers/aspose_cad.png" pfName="Aspose.CAD" downloadUrl="" tryOnlineUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="REST APIs to Build AutoCAD Drawing Converter" h2="Develop cloud-based CAD programs to process and rotate, flip, scale or convert AutoCAD drawings via simple cloud SDKs" logoImageSrc="/headers/aspose_cad.svg" pfName="Aspose.CAD" downloadUrl="" tryOnlineUrl="" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud for cURL" imgSrc="/sdk/aspose_cad-for-curl.png" productLink="/cad/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud for cURL" imgSrc="/sdk/aspose_cad-for-curl.svg" productLink="/cad/curl/" >}}
 Use cURL commands to fetch details of CAD drawings. Scale CAD images, rotate CAD diagrams, flip CAD sketches. Convert AutoCAD to PDF & image formats.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cad-for-net.png" productLink="/cad/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cad-for-net.svg" productLink="/cad/net/" >}}
 .NET REST API for CAD cloud solution. Use C# to develop AutoCAD converter cloud-based Apps. Scale, flip, rotate and convert CAD drawings from DXF to PDF and image files.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cad-for-java.png" productLink="/cad/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cad-for-java.svg" productLink="/cad/java/" >}}
 Build cloud-based CAD programs using Java Cloud SDK. Process (flip, rotate, scale) and convert DXF to PDF and BMP, PNG, JPG, JPEG, JPEG2000, TIF, TIFF, PSD, GIF, WMF.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_cad-for-php.png" productLink="/cad/php/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for PHP" imgSrc="/sdk/aspose_cad-for-php.svg" productLink="/cad/php/" >}}
 Developed CAD processing cloud-based programs via PHP commands to export AutoCAD DWG, DWF & DXF files, scale, rotate, flip and edit drawings.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Python" imgSrc="/sdk/aspose_cad-for-python.png" productLink="/cad/python/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Python" imgSrc="/sdk/aspose_cad-for-python.svg" productLink="/cad/python/" >}}
 Create your own cloud-based CAD converter applications to export AutoCAD DWG, DWF & DXF Drawings. Use Python cloud SDK to rotate, flip or scale CAD files in cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_cad-for-ruby.png" productLink="/cad/ruby/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Ruby" imgSrc="/sdk/aspose_cad-for-ruby.svg" productLink="/cad/ruby/" >}}
 Enable your Ruby applications to read, process and convert AutoCAD DWG, DWF drawings to PDF or raster images format as well as flip or scale CAD files in cloud.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_cad-for-node.png" productLink="/cad/nodejs/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Node.js" imgSrc="/sdk/aspose_cad-for-node.svg" productLink="/cad/nodejs/" >}}
 Perform advanced CAD manipulation and conversion capabilities in your Node.js Apps via Cloud SDK to resize, scale, rotate, flip, search, crop & convert AutoCAD DWG, DWF & DXF drawings.
 {{< /blocks/products/pf/product >}}
 

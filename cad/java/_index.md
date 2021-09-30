@@ -10,7 +10,7 @@ url: /java
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Java SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-java.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-java" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-java.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-java" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud Java SDK makes the development of cloud-based CAD programs very quick and error-free. It helps you retrieve CAD image information for CAD drawings. Aspose.CAD Cloud SDK for Java makes scaling, rotating and flipping of CAD diagrams very easy. You can easily open, save and convert from popular AutoCAD DWG, DWF and DXF to Other File Formats.</p>
@@ -38,7 +38,7 @@ url: /java
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-java.png" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-java.svg" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -75,7 +75,7 @@ url: /java
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-java.png" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-java.svg" alt="CAD Cloud for Java" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Java</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -226,13 +226,13 @@ url: /java
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/curl/" imgSrc="/sdk/aspose_cad-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="/sdk/aspose_cad-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="/sdk/aspose_cad-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/nodejs/" imgSrc="/sdk/aspose_cad-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/curl/" imgSrc="/sdk/aspose_cad-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="/sdk/aspose_cad-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="/sdk/aspose_cad-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.svg" platform="Ruby" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/nodejs/" imgSrc="/sdk/aspose_cad-for-node.svg" platform="Node.js" >}}
 	
 
 {{< /blocks/products/pf/offers-section >}}

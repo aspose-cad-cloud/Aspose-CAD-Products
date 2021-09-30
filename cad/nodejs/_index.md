@@ -10,7 +10,7 @@ url: /nodejs
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-node.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-nodejs" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-node.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud/aspose-cad-cloud-nodejs" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud Node.js SDK is a very stable and easy-to-use set of REST APIs that enables software developers to create AutoCAD drawing converter applications using Node.js commands without requiring AutoCAD or any software to be installed on their machines. Aspose.CAD Cloud Node.js SDK supports several advanced features like scaling and rotating CAD images, modify the scale of CAD drawing, get images properties, flip CAD sketches, and many more.</p>
@@ -38,7 +38,7 @@ url: /nodejs
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-node.png" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-node.svg" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -75,7 +75,7 @@ url: /nodejs
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-node.png" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-node.svg" alt="CAD Cloud for Node.js" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>Node.js</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -226,13 +226,13 @@ url: /nodejs
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/curl/" imgSrc="/sdk/aspose_cad-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="/sdk/aspose_cad-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="/sdk/aspose_cad-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/nodejs/" imgSrc="/sdk/aspose_cad-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/curl/" imgSrc="/sdk/aspose_cad-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="/sdk/aspose_cad-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="/sdk/aspose_cad-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.svg" platform="Ruby" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/nodejs/" imgSrc="/sdk/aspose_cad-for-node.svg" platform="Node.js" >}}
 	
 
 {{< /blocks/products/pf/offers-section >}}

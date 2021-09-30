@@ -6,20 +6,20 @@ url: /
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/family-upper-banner h1="CAD Drawing Conversion & Transformation Solution" h2="Easy to use native APIs & cloud REST SDKs for building desktop, web & cloud-based applications to view & convert AutoCAD drawings." logoImageSrc="/headers/aspose_cad-brand.png" imageAlt="Aspose.CAD Product Family" >}}
+{{< blocks/products/pf/family-upper-banner h1="CAD Drawing Conversion & Transformation Solution" h2="Easy to use native APIs & cloud REST SDKs for building desktop, web & cloud-based applications to view & convert AutoCAD drawings." logoImageSrc="/headers/aspose_cad-brand.svg" imageAlt="Aspose.CAD Product Family" >}}
 
 {{< blocks/products/pf/main-container >}}
 {{< blocks/products/pf/product-card-row title="Aspose.CAD Cloud APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud for cURL" imgSrc="/sdk/aspose_cad-for-curl.png" productLink="/cad/curl/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud for cURL" imgSrc="/sdk/aspose_cad-for-curl.svg" productLink="/cad/curl/" >}}
 Build cloud-based cURL programs to export and convert AutoCAD drawings via REST API.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cad-for-net.png" productLink="/cad/net/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for .NET" imgSrc="/sdk/aspose_cad-for-net.svg" productLink="/cad/net/" >}}
 Enhance your C#, ASP.NET or other .NET code to create cloud CAD applications to process AutoCAD files.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cad-for-java.png" productLink="/cad/java/" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD" title="Cloud SDK for Java" imgSrc="/sdk/aspose_cad-for-java.svg" productLink="/cad/java/" >}}
 Build Java cloud apps to scale, flip, rotate, convert & export CAD drawings via Java REST SDK.
 {{< /blocks/products/pf/product >}}
 

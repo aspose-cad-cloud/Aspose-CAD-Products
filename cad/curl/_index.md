@@ -10,7 +10,7 @@ url: /curl
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" >}}
 
-{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-curl.png" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud" liveDemosLink="https://products.aspose.app/cad/family" >}}
+{{< blocks/products/pf/sub-menu logoImageSrc="/sdk/aspose_cad-for-curl.svg" liveDemosLink="" PricingLink="https://purchase.aspose.cloud/pricing" buyLink="https://dashboard.aspose.cloud" docsLink="https://docs.aspose.cloud/cad" directDownloadLink="https://github.com/aspose-cad-cloud" liveDemosLink="https://products.aspose.app/cad/family" >}}
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud for cURL helps create cURL-based CAD processing applications for cloud. It allows you to fetch image information of existing CAD drawings. Resize CAD image, flip CAD diagrams or rotate CAD sketches with ease.</p>
@@ -38,7 +38,7 @@ url: /curl
 </div>
 <!--/left--> <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl.png" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl.svg" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram1 -->
 {{< /blocks/products/pf/carousel-item >}}
@@ -75,7 +75,7 @@ url: /curl
 </div>
 <!--/right--></div>
 <!--/row-->
-<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl.png" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
+<div class="d1-logo"><img src="/sdk/aspose_cad-for-curl.svg" alt="CAD Cloud for cURL" /><header>Aspose.CAD</header><footer>Cloud <small> <em> for </em> </small>cURL</footer></div>
 <!--/logo--></div>
 <!--/diagram2-->
 
@@ -218,13 +218,13 @@ url: /curl
 
 {{< blocks/products/pf/offers-section pfName="Aspose.CAD" >}}
 
-    {{< blocks/products/pf/offers-section-item link="/cad/curl/" imgSrc="/sdk/aspose_cad-for-curl.png" platform="cURL" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="/sdk/aspose_cad-for-net.png" platform=".NET" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="/sdk/aspose_cad-for-java.png" platform="Java" >}}
-    {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.png" platform="PHP" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.png" platform="Python" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.png" platform="Ruby" >}}
-	{{< blocks/products/pf/offers-section-item link="/cad/nodejs/" imgSrc="/sdk/aspose_cad-for-node.png" platform="Node.js" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/curl/" imgSrc="/sdk/aspose_cad-for-curl.svg" platform="cURL" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/net/" imgSrc="/sdk/aspose_cad-for-net.svg" platform=".NET" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/java/" imgSrc="/sdk/aspose_cad-for-java.svg" platform="Java" >}}
+    {{< blocks/products/pf/offers-section-item link="/cad/php/" imgSrc="/sdk/aspose_cad-for-php.svg" platform="PHP" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/python/" imgSrc="/sdk/aspose_cad-for-python.svg" platform="Python" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/ruby/" imgSrc="/sdk/aspose_cad-for-ruby.svg" platform="Ruby" >}}
+	{{< blocks/products/pf/offers-section-item link="/cad/nodejs/" imgSrc="/sdk/aspose_cad-for-node.svg" platform="Node.js" >}}
 	
 
 {{< /blocks/products/pf/offers-section >}}
