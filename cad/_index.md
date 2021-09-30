@@ -29,11 +29,11 @@ Build Java cloud apps to scale, flip, rotate, convert & export CAD drawings via 
 
 {{< blocks/products/pf/product-card-row title="Aspose.CAD On Premise APIs Include" >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for" title=".NET" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-net.png" productLink="https://products.aspose.com/cad/net" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for" title=".NET" imgSrc="/product-logos/aspose_cad-for-net.svg" productLink="https://products.aspose.com/cad/net" >}}
 Download C# on-premise API to process AutoCAD drawings within your .NET projects.
 {{< /blocks/products/pf/product >}}
 
-{{< blocks/products/pf/product pfName="Aspose.CAD for" title="Java" imgSrc="https://www.aspose.cloud/templates/aspose/App_Themes/V3/images/cad/272x272/aspose_cad-for-java.png" productLink="https://products.aspose.com/cad/java" >}}
+{{< blocks/products/pf/product pfName="Aspose.CAD for" title="Java" imgSrc="/product-logos/aspose_cad-for-java.svg" productLink="https://products.aspose.com/cad/java" >}}
 Native API to enable your Java programs to convert AutoCAD DWG, DXF & DWF to image & PDF.
 {{< /blocks/products/pf/product >}}
 
