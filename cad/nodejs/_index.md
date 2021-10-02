@@ -6,7 +6,7 @@ url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate & Convert CAD Drawings via Node.js" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via Ruby Cloud APIs." logoImageSrc="/headers/aspose_cad-for-node.png?v2?v2" pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Manipulate & Convert CAD Drawings via Node.js" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via Ruby Cloud APIs." logoImageSrc="/headers/aspose_cad-for-nodejs.svg" pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" >}}
 

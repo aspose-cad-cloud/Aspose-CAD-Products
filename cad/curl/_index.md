@@ -6,7 +6,7 @@ url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert CAD DWG, DWF & DXF Files via cURL" h2="Build CAD processing cloud-based programs via cURL commands to export AutoCAD DWG, DWF & DXF files, scale, rotate, flip and edit drawings." logoImageSrc="/headers/aspose_cad-for-curl.png?v2?v2" pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Convert CAD DWG, DWF & DXF Files via cURL" h2="Build CAD processing cloud-based programs via cURL commands to export AutoCAD DWG, DWF & DXF files, scale, rotate, flip and edit drawings." logoImageSrc="/headers/aspose_cad-for-curl.svg" pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" >}}
 

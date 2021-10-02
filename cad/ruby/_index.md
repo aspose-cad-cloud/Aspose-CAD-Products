@@ -6,7 +6,7 @@ url: /ruby
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Ruby SDK to Edit & Convert CAD Drawings" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via Ruby Cloud APIs." logoImageSrc="/headers/aspose_cad-for-ruby.png?v2?v2" pfName="Aspose.CAD" subTitlepfName="Cloud Ruby SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Ruby SDK to Edit & Convert CAD Drawings" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via Ruby Cloud APIs." logoImageSrc="/headers/aspose_cad-for-ruby.svg" pfName="Aspose.CAD" subTitlepfName="Cloud Ruby SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Ruby SDK" >}}
 

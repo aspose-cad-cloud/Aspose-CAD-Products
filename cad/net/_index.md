@@ -6,7 +6,7 @@ url: /net
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1=".NET REST API to Convert & Process CAD Drawings" h2="Build cloud-based CAD converter applications to Export AutoCAD DWG, DWF & DXF Drawings. Use C# cloud SDK to rotate, flip or scale CAD files in the cloud." logoImageSrc="/headers/aspose_cad-for-net.png?v2?v2" pfName="Aspose.CAD" subTitlepfName="Cloud .NET SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1=".NET REST API to Convert & Process CAD Drawings" h2="Build cloud-based CAD converter applications to Export AutoCAD DWG, DWF & DXF Drawings. Use C# cloud SDK to rotate, flip or scale CAD files in the cloud." logoImageSrc="/headers/aspose_cad-for-net.svg" pfName="Aspose.CAD" subTitlepfName="Cloud .NET SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud .NET SDK" >}}
 

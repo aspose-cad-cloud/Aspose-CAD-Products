@@ -6,7 +6,7 @@ url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PHP SDK to Edit & Convert CAD Drawings" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via PHP Cloud APIs." logoImageSrc="/headers/aspose_cad-for-php.png?v2?v2" pfName="Aspose.CAD" subTitlepfName="Cloud PHP SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="PHP SDK to Edit & Convert CAD Drawings" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via PHP Cloud APIs." logoImageSrc="/headers/aspose_cad-for-php.svg" pfName="Aspose.CAD" subTitlepfName="Cloud PHP SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud PHP SDK" >}}
 
