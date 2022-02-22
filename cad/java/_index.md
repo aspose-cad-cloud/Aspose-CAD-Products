@@ -1,12 +1,12 @@
 ﻿---
 title: CAD Java REST API - Process & Export AutoCAD DWG & DXF Drawings 
-description: Java Cloud SDK to Open, Edit & Convert AutoCAD DWG, DWF to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches 
+description: Java Cloud SDK to Open, Edit & Convert AutoCAD DWG, DWF to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches 
 weight: 40
 url: /java
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Process & Export AutoCAD Drawings via Java REST API" h2="Easy Java Cloud SDK to Open, Edit & Convert AutoCAD DWG, DWF to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches." logoImageSrc="/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="Cloud Java SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Process & Export AutoCAD Drawings via Java REST API" h2="Easy Java Cloud SDK to Open, Edit & Convert AutoCAD DWG, DWF to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches." logoImageSrc="/headers/aspose_cad-for-java.svg" pfName="Aspose.CAD" subTitlepfName="Cloud Java SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Java SDK" >}}
 

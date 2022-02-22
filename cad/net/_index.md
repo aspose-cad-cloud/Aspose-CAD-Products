@@ -1,6 +1,6 @@
 ﻿---
 title: C# .NET AutoCAD Cloud SDK (Convert, Edit & Process CAD Drawings) 
-description: .NET Cloud SDK to Read & Convert AutoCAD DWG, DWF to PDF or images. Rotate CAD images, scale CAD diagrams, flip CAD sketches 
+description: .NET Cloud SDK to Read & Convert AutoCAD DWG, DWF to PDF or images. Rotate CAD images, scale CAD diagrams, flip CAD sketches 
 weight: 50
 url: /net
 ---
@@ -193,7 +193,7 @@ saveFileToDisk(responseStream, "converted_from_dxf.jpg");</code></pre>
      Convert CAD DWG Drawings to PDF &amp; Other Formats
     </h2>
     <p>
-     Aspose.CAD Cloud .NET SDK provides the capability to convert AutoCAD DWG drawings/images to PDF and other supported file formats.  You can easily export an existing drawing to another format. You can upload a document to Cloud storage after that you can save the output file to disk in your required supported format. It supports CAD drawings conversion to BMP, JPG, JPEG, TIFF, PNG, PSD, GIF, PDF, WMF, and several other file formats.
+     Aspose.CAD Cloud .NET SDK provides the capability to convert AutoCAD DWG drawings/images to PDF and other supported file formats.  You can easily export an existing drawing to another format. You can upload a document to Cloud storage after that you can save the output file to disk in your required supported format. It supports CAD drawings conversion to BMP, JPG, JPEG, TIFF, PNG, PSD, GIF, PDF, WMF, and several other file formats.
     </p>
    </div>
    <div class="col-lg-12">

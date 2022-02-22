@@ -1,12 +1,12 @@
 ﻿---
 title: Convert AutoCAD DWG, DWF & DXF Drawings in Cloud via cURL Commands 
-description: Build CAD processing cloud-based programs via cURL commands to export AutoCAD DWG, DWF & DXF files, scale, rotate, flip and edit drawings 
+description: Build CAD processing cloud-based programs via cURL commands to export AutoCAD DWG, DWF & DXF files, scale, rotate, flip and edit drawings 
 weight: 30
 url: /curl
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Convert CAD DWG, DWF & DXF Files via cURL" h2="Build CAD processing cloud-based programs via cURL commands to export AutoCAD DWG, DWF & DXF files, scale, rotate, flip and edit drawings." logoImageSrc="/headers/aspose_cad-for-curl.svg" pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Convert CAD DWG, DWF & DXF Files via cURL" h2="Build CAD processing cloud-based programs via cURL commands to export AutoCAD DWG, DWF & DXF files, scale, rotate, flip and edit drawings." logoImageSrc="/headers/aspose_cad-for-curl.svg" pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud for cURL" >}}
 
@@ -175,7 +175,7 @@ url: /curl
      AutoCAD DWG Export to PDF &amp; Supported File Formats
     </h2>
     <p>
-     Aspose.CAD Cloud for cURL allows developers to export AutoCAD DWG drawings to PDF &amp; other supported file formats with just few simple commands. You can easily export DWG drawings to several other formats like BMP, PNG, JPG, JPEG, JPEG2000, TIF, TIFF, PSD, GIF, PDF and WMF formats. You can also get properties of an image with ease.
+     Aspose.CAD Cloud for cURL allows developers to export AutoCAD DWG drawings to PDF &amp; other supported file formats with just few simple commands. You can easily export DWG drawings to several other formats like BMP, PNG, JPG, JPEG, JPEG2000, TIF, TIFF, PSD, GIF, PDF and WMF formats. You can also get properties of an image with ease.
     </p>
    </div>
    <div class="col-lg-12">

@@ -1,12 +1,12 @@
 ﻿---
 title: PHP Cloud SDK for CAD Drawings – Manipulate & Convert CAD Files to PDF 
-description: Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via PHP Cloud APIs 
+description: Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via PHP Cloud APIs 
 weight: 80
 url: /php
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="PHP SDK to Edit & Convert CAD Drawings" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via PHP Cloud APIs." logoImageSrc="/headers/aspose_cad-for-php.svg" pfName="Aspose.CAD" subTitlepfName="Cloud PHP SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="PHP SDK to Edit & Convert CAD Drawings" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via PHP Cloud APIs." logoImageSrc="/headers/aspose_cad-for-php.svg" pfName="Aspose.CAD" subTitlepfName="Cloud PHP SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud PHP SDK" >}}
 
@@ -14,7 +14,7 @@ url: /php
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud SDK for PHP provides the capability to implement a wide range of CAD drawing processing operations such as reading, retrieving & updating, manipulating, and converting to other supported file formats in the cloud without requiring AutoCAD or any software to be installed. It provides supports for the latest versions of AutoCAD DWG, DXF, DWF, DWT, STL, IGS, DGN, OBJ, and CF2 files.</p>
-<p>Aspose.CAD Cloud SDK for PHP gives developers the power to export popular AutoCAD drawings such as DWG, DWF, and DXF to PDF as well as high-quality raster images such as BMP, PNG, JPG, JPEG, JPEG2000, TIF, TIFF, PSD, GIF and high-quality vector files like SVG and WMF.  You can also convert the selected layers and layouts from the CAD drawings.   The SDK supports advanced features like scaling CAD drawing, rotating CAD images, getting properties of images, flipping CAD sketches, and many more.</p>
+<p>Aspose.CAD Cloud SDK for PHP gives developers the power to export popular AutoCAD drawings such as DWG, DWF, and DXF to PDF as well as high-quality raster images such as BMP, PNG, JPG, JPEG, JPEG2000, TIF, TIFF, PSD, GIF and high-quality vector files like SVG and WMF.  You can also convert the selected layers and layouts from the CAD drawings.   The SDK supports advanced features like scaling CAD drawing, rotating CAD images, getting properties of images, flipping CAD sketches, and many more.</p>
 {{< /blocks/products/pf/tab-content >}}
 <!--Diagrams Start-->
 {{< blocks/products/pf/carousel >}}
@@ -183,13 +183,13 @@ url: /php
      <em>
       document format
      </em>
-     " one of the most popular file formats used to create and share files online. The PDF documents can contain a variety of content besides plain text such as annotations, form-fields,  graphics, videos, three-dimensional objects, and numerous other data formats.  Aspose.CAD Cloud SDK for PHP enables software developers to programmatically convert CAD drawings to a PDF document with just several lines of PHP code inside their own applications.
+     " one of the most popular file formats used to create and share files online. The PDF documents can contain a variety of content besides plain text such as annotations, form-fields,  graphics, videos, three-dimensional objects, and numerous other data formats.  Aspose.CAD Cloud SDK for PHP enables software developers to programmatically convert CAD drawings to a PDF document with just several lines of PHP code inside their own applications.
     </p>
     <h2 class="h2title">
      Flip or Rotate CAD Image
     </h2>
     <p>
-     Aspose.CAD Cloud SDK for PHP allows programmers to rotate or flip an existing AutoCAD drawing inside their own applications.  The rotate and flip
+     Aspose.CAD Cloud SDK for PHP allows programmers to rotate or flip an existing AutoCAD drawing inside their own applications.  The rotate and flip
      <strong>
       method
      </strong>
@@ -201,7 +201,7 @@ url: /php
      Resizing or Scaling AutoCAD Drawing Images
     </h2>
     <p>
-     Aspose.CAD Cloud SDK for PHP provides the capability for adjusting the size of drawing images according to their own needs using PHP commands. Image scaling is another way of resizing an image. The SDK provides functionality for scaling images by automatically adjusting the image size or change the scale of an image from the body
+     Aspose.CAD Cloud SDK for PHP provides the capability for adjusting the size of drawing images according to their own needs using PHP commands. Image scaling is another way of resizing an image. The SDK provides functionality for scaling images by automatically adjusting the image size or change the scale of an image from the body
     </p>
     <h2 class="h2title">
      Convert CAD DWG Drawings to Image Formats

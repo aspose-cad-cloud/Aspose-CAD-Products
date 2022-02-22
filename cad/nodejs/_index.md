@@ -1,12 +1,12 @@
 ﻿---
 title: Node.js Cloud SDK for AutoCAD - Create, Edit & Convert CAD Drawings
-description: Node.js Cloud SDK to Read & Convert AutoCAD DWG, DWF to PDF or images. Rotate CAD images, scale CAD diagrams, flip CAD sketches 
+description: Node.js Cloud SDK to Read & Convert AutoCAD DWG, DWF to PDF or images. Rotate CAD images, scale CAD diagrams, flip CAD sketches 
 weight: 60
 url: /nodejs
 ---
 
 {{< blocks/products/pf/main-wrap-class >}}
-{{< blocks/products/pf/upper-banner h1="Manipulate & Convert CAD Drawings via Node.js" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via Ruby Cloud APIs." logoImageSrc="/headers/aspose_cad-for-nodejs.svg" pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" downloadUrl="" >}}
+{{< blocks/products/pf/upper-banner h1="Manipulate & Convert CAD Drawings via Node.js" h2="Open, update & convert AutoCAD DWG, DWF drawings to PDF or images, rotate CAD images, scale CAD diagrams, flip CAD sketches via Ruby Cloud APIs." logoImageSrc="/headers/aspose_cad-for-nodejs.svg" pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" downloadUrl="" >}}
 
 {{< blocks/products/pf/main-container pfName="Aspose.CAD" subTitlepfName="Cloud Node.js SDK" >}}
 
@@ -14,7 +14,7 @@ url: /nodejs
 
 {{< blocks/products/pf/tab-content >}}
 <p>Aspose.CAD Cloud Node.js SDK is a very stable and easy-to-use set of REST APIs that enables software developers to create AutoCAD drawing converter applications using Node.js commands without requiring AutoCAD or any software to be installed on their machines. Aspose.CAD Cloud Node.js SDK supports several advanced features like scaling and rotating CAD images, modify the scale of CAD drawing, get images properties, flip CAD sketches, and many more.</p>
-<p>Use simple Node.js commands you can programmatically export your DWG, DWF, and DXF CAD drawings to PDF and image formats such as BMP, PNG, JPG, JPEG, TIF, TIFF, PSD, GIF, and several others formats. You can also convert the selected layers and layouts from the CAD drawings.</p>
+<p>Use simple Node.js commands you can programmatically export your DWG, DWF, and DXF CAD drawings to PDF and image formats such as BMP, PNG, JPG, JPEG, TIF, TIFF, PSD, GIF, and several others formats. You can also convert the selected layers and layouts from the CAD drawings.</p>
 {{< /blocks/products/pf/tab-content >}}
 
 <!--Diagrams Start-->
@@ -177,7 +177,7 @@ url: /nodejs
      CAD Drawing Conversion to Other Formats
     </h2>
     <p>
-     Aspose.CAD Cloud Node.js SDK fully supports converting AutoCAD DWG drawings or images to PDF and other supported file formats inside your own Node.js applications. It allows developers to upload a file to Cloud storage and after that, they can easily save the output file to the external storage in their desired file format.  The SDK supports CAD files conversion to several important file formats like BMP, JPG, JPEG, TIFF, PNG, PSD, GIF, PDF, WMF, and several other file formats.
+     Aspose.CAD Cloud Node.js SDK fully supports converting AutoCAD DWG drawings or images to PDF and other supported file formats inside your own Node.js applications. It allows developers to upload a file to Cloud storage and after that, they can easily save the output file to the external storage in their desired file format.  The SDK supports CAD files conversion to several important file formats like BMP, JPG, JPEG, TIFF, PNG, PSD, GIF, PDF, WMF, and several other file formats.
     </p>
     <h2 class="h2title">
      Retrieve &amp; Modify Properties of CAD image
